@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+    background-color: gainsboro;
+}
+a{
+    color: whitesmoke;
+    background-color: blue;
+    margin: 15px;
+    height: 20px;
+    padding: 15px;
+    width: 55px;
+    text-decoration: none;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px black;
+}
+header{
+    display: flex;
+    background-color: rgb(245, 118, 118);
+}

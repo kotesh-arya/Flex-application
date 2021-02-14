@@ -2,6 +2,13 @@ body{
     margin: 0px;
     box-sizing: border-box;
     font-family: 'Titillium Web', sans-serif;
+    background-color: gainsboro;
+}
+h1{
+    color: darkred;
+}
+h2{
+    color: darkslateblue;
 }
 .image-container{
     text-align: center;
