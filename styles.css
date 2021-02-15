@@ -19,4 +19,5 @@ a{
 header{
     display: flex;
     background-color: rgb(245, 118, 118);
+    justify-content: flex-end;
 }
