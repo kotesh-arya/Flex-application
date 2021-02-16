@@ -1,9 +1,10 @@
-body{
-    margin: 50px;
-    box-sizing: border-box;
-    font-family: 'Titillium Web', sans-serif;
-    background-color: gainsboro;
+html{
+    
 }
+body{
+    margin: 90px;
+    font-family: 'Titillium Web', sans-serif;
+background-image: linear-gradient(to right bottom, #ffffff, #cdf4ff, #33f5ff, #00f1d3, #19e055);}
 h1{
     color: darkred;
 }

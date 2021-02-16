@@ -6,14 +6,11 @@ html{
     --primary-color: rgb(255, 255, 255);
 }
 body {
-    box-sizing: border-box;
     margin: 0px;
     box-sizing: border-box;
     font-family: sans-serif;
     height:100%;
     background-image: linear-gradient(to right top, #9b5151, #be735c, #db9968, #f1c27a, #ffee93);
-
-
 }
 
 a {
