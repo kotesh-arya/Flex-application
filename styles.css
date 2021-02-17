@@ -3,7 +3,7 @@ html{
 
 }
 :root{
-    --primary-color: rgb(255, 255, 255);
+    --primary-color: rgb(39, 30, 30);
 }
 body {
     margin: 0px;
@@ -17,7 +17,7 @@ a {
     color:var(--primary-color);
     background-color: transparent;
     margin: 10px;
-    padding: 20px;
+    padding: 10px  20px 0px 20px;
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 30%;
@@ -31,7 +31,7 @@ header {
 }
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-content: center;
     flex-wrap: wrap;
 }
@@ -39,10 +39,13 @@ h1{
     color: #24285b;
 }
 .content{
-   order: 1;
-   flex-grow: 1;
+  align-self:center;
+  margin: 20px;
 }
 .image{
 order: 2;
-flex-grow: 1;
+flex-grow: 2;
+background-color: rgb(218, 198, 198);
+margin-left: 10px;
+border-radius: 15px 0px 0px 15px;
 }

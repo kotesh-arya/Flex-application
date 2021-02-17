@@ -5,3 +5,12 @@ body{
    
     background-image: linear-gradient(to right top, #f57676, #ff8a55, #fca82b, #dfca00, #a8eb12);
 }
+.container{
+    display: flex;
+}
+.first{
+   
+}
+.second{
+  
+}
