@@ -2,8 +2,8 @@
 body{
     margin: 90px;
     font-family: 'Titillium Web', sans-serif;
-background-image: linear-gradient(to right bottom, #ffffff, #cdf4ff, #33f5ff, #00f1d3, #19e055);}
-h1{
+}
+    h1{
     color: darkred;
 }
 h2{
